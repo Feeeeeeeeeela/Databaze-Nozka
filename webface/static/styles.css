@@ -1,0 +1,34 @@
+.hlavnitext {background-color: #00BFFF;
+        border: #0000CD 2px solid;
+        width: 1200px;
+        font-size: 17pt;
+        font-family:Comic Sans MS, Comic Sans, cursive;
+        margin: auto;
+        text-align: center;
+        text-indent: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+        }
+
+.bocnitext {background-color: #00BFFF;
+            border: #0000CD 2px solid;
+            font-family:Comic Sans MS, Comic Sans, cursive;
+            width: 130px;
+            font-size: 17pt;
+            text-align: center;
+            color: #7FFF00	;
+            font-weight: none;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 20px;
+            }
+
+.centering {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
