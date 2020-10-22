@@ -29,3 +29,7 @@ def kapusta():
 def banany():
     title = 'Banány'
     return render_template('banany.html.j2', title=title)
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html.j2')
