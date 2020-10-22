@@ -25,10 +25,16 @@
             margin-right: auto;
             margin-bottom: 20px;
             }
-
+a {
+    text-decoration: none;
+}
 .centering {
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+.zluta {
+    background-color: yellow;
 }
